@@ -1,3 +1,4 @@
+https:/
 https://lenster.xyz/u/0----.lens
 https://lenster.xyz/u/0-0-0.lens
 https://lenster.xyz/u/0-000.lens
@@ -13,9 +14,6 @@ https://lenster.xyz/u/0000000000.lens
 https://lenster.xyz/u/00000000000.lens
 https://lenster.xyz/u/0000000000000000.lens
 https://lenster.xyz/u/0000000000000000000000000.lens
-https://lenster.xyz/u/00000000000000000000000000.lens
-https://lenster.xyz/u/00000000000000000000000000.lens
-https://lenster.xyz/u/00000000000000000000000000.lens
 https://lenster.xyz/u/00000000000000000000000000.lens
 https://lenster.xyz/u/000000001.lens
 https://lenster.xyz/u/000000012.lens
@@ -1909,4 +1907,3 @@ https://lenster.xyz/u/10008.lens
 https://lenster.xyz/u/100086.lens
 https://lenster.xyz/u/10009.lens
 https://lenster.xyz/u/1000eth.lens
-https:/
