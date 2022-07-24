@@ -3,7 +3,7 @@ name: Update Sitemap
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '*/15 * * * *'
+    - cron: '*/15 * * * *'
   push:
     branches: [main]
 
@@ -11,14 +11,15 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - name: Update data
-      uses: actions/setup-node@v1
-      with:
-        node-version: 16
-    - run: yarn install
-    - run: node profiles.js
-    - uses: mikeal/publish-to-github-action@master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH_NAME: 'main'
+      - uses: actions/checkout@v3
+      - name: Update data
+        uses: actions/setup-node@v1
+        with:
+          node-version: 16
+      - run: yarn install
+      - run: node profiles.js
+      - run: ./cleanup.sh
+      - uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_NAME: 'main'
