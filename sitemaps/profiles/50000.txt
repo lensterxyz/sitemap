@@ -45429,3 +45429,6 @@ https://lenster.xyz/u/francois.lens
 https://lenster.xyz/u/0xblu.lens
 https://lenster.xyz/u/craabit.lens
 https://lenster.xyz/u/rememberthis.lens
+https://lenster.xyz/u/pilkster.lens
+https://lenster.xyz/u/perpetualprotocol.lens
+https://lenster.xyz/u/perpetual.lens
