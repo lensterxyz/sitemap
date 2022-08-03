@@ -49109,3 +49109,7 @@ https://lenster.xyz/u/prototype.lens
 https://lenster.xyz/u/homicide.lens
 https://lenster.xyz/u/ether1.lens
 https://lenster.xyz/u/metatrade.lens
+https://lenster.xyz/u/equip.lens
+https://lenster.xyz/u/btc1588.lens
+https://lenster.xyz/u/00189.lens
+https://lenster.xyz/u/matld.lens
