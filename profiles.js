@@ -10,7 +10,7 @@ const PROFILE = `
   }
 `
 
-const end = 50000
+const end = 100000
 
 async function fetchUsers(startId) {
   for (i = startId; i < end; i++) {
@@ -39,7 +39,7 @@ async function fetchUsers(startId) {
       `${i} (${ethers.utils.hexlify(i)}) => https://lenster.xyz/u/${handle}`
     )
     fs.appendFileSync(
-      'sitemaps/profiles/50000.txt',
+      'sitemaps/profiles/100000.txt',
       `https://lenster.xyz/u/${handle}\n`
     )
   }

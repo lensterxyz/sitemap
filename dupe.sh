@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sort sitemaps/profiles/50000.txt | uniq -d
+sort sitemaps/profiles/100000.txt | uniq -d
