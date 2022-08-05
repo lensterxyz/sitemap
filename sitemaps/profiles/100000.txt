@@ -937,3 +937,4 @@ https://lenster.xyz/u/cryptolabs.lens
 https://lenster.xyz/u/gustavoam.lens
 https://lenster.xyz/u/wisp1110.lens
 https://lenster.xyz/u/sidereal.lens
+https://lenster.xyz/u/ethosdev.lens
