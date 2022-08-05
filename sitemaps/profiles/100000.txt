@@ -838,3 +838,6 @@ https://lenster.xyz/u/endpoint.lens
 https://lenster.xyz/u/fanhouse.lens
 https://lenster.xyz/u/fineday.lens
 https://lenster.xyz/u/58558.lens
+https://lenster.xyz/u/0x858.lens
+https://lenster.xyz/u/fedeast.lens
+https://lenster.xyz/u/azeem.lens
