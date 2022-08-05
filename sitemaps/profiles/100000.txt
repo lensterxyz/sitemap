@@ -940,3 +940,4 @@ https://lenster.xyz/u/sidereal.lens
 https://lenster.xyz/u/ethosdev.lens
 https://lenster.xyz/u/scone.lens
 https://lenster.xyz/u/mxmeta.lens
+https://lenster.xyz/u/thehedgster.lens
