@@ -834,3 +834,6 @@ https://lenster.xyz/u/exactly.lens
 https://lenster.xyz/u/sssss1.lens
 https://lenster.xyz/u/shmily.lens
 https://lenster.xyz/u/letmesee.lens
+https://lenster.xyz/u/endpoint.lens
+https://lenster.xyz/u/fanhouse.lens
+https://lenster.xyz/u/fineday.lens
