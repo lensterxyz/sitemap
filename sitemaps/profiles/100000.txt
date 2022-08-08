@@ -2760,3 +2760,5 @@ https://lenster.xyz/u/electronics.lens
 https://lenster.xyz/u/0xjem.lens
 https://lenster.xyz/u/johnnakoair.lens
 https://lenster.xyz/u/earth2travis.lens
+https://lenster.xyz/u/convexity.lens
+https://lenster.xyz/u/contracts.lens
