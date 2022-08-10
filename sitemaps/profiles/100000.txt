@@ -2896,3 +2896,4 @@ https://lenster.xyz/u/tokentransfer.lens
 https://lenster.xyz/u/skylark.lens
 https://lenster.xyz/u/growtopia.lens
 https://lenster.xyz/u/shanghai08.lens
+https://lenster.xyz/u/chinax.lens
