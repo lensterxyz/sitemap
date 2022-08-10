@@ -2949,3 +2949,6 @@ https://lenster.xyz/u/powerwall.lens
 https://lenster.xyz/u/teslasemi.lens
 https://lenster.xyz/u/80002.lens
 https://lenster.xyz/u/rhizoo.lens
+https://lenster.xyz/u/0x4689.lens
+https://lenster.xyz/u/teslaoptimus.lens
+https://lenster.xyz/u/88099.lens
