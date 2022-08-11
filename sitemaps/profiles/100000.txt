@@ -3070,3 +3070,5 @@ https://lenster.xyz/u/ethical.lens
 https://lenster.xyz/u/butterflyposition.lens
 https://lenster.xyz/u/restaurantsupply.lens
 https://lenster.xyz/u/countertop.lens
+https://lenster.xyz/u/approve.lens
+https://lenster.xyz/u/happyscissors.lens
