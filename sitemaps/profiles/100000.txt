@@ -3067,3 +3067,6 @@ https://lenster.xyz/u/pretzeldip.lens
 https://lenster.xyz/u/flatiron.lens
 https://lenster.xyz/u/tracking.lens
 https://lenster.xyz/u/ethical.lens
+https://lenster.xyz/u/butterflyposition.lens
+https://lenster.xyz/u/restaurantsupply.lens
+https://lenster.xyz/u/countertop.lens
