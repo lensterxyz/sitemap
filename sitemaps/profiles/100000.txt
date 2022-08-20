@@ -8453,3 +8453,6 @@ https://lenster.xyz/u/rutrab.lens
 https://lenster.xyz/u/rom1919.lens
 https://lenster.xyz/u/renacassinelli.lens
 https://lenster.xyz/u/theyavuzarslan.lens
+https://lenster.xyz/u/chemistry.lens
+https://lenster.xyz/u/physics.lens
+https://lenster.xyz/u/literature.lens
