@@ -8313,3 +8313,6 @@ https://lenster.xyz/u/phoebe.lens
 https://lenster.xyz/u/66603.lens
 https://lenster.xyz/u/communist.lens
 https://lenster.xyz/u/capitalist.lens
+https://lenster.xyz/u/metamine.lens
+https://lenster.xyz/u/66604.lens
+https://lenster.xyz/u/lighting.lens
