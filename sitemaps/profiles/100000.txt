@@ -8461,3 +8461,7 @@ https://lenster.xyz/u/poetry.lens
 https://lenster.xyz/u/ebooks.lens
 https://lenster.xyz/u/freebooks.lens
 https://lenster.xyz/u/miguelbayon.lens
+https://lenster.xyz/u/comicbooks.lens
+https://lenster.xyz/u/xxstevelee.lens
+https://lenster.xyz/u/erikvalle.lens
+https://lenster.xyz/u/flywill.lens
