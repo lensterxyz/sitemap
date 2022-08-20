@@ -8456,3 +8456,8 @@ https://lenster.xyz/u/theyavuzarslan.lens
 https://lenster.xyz/u/chemistry.lens
 https://lenster.xyz/u/physics.lens
 https://lenster.xyz/u/literature.lens
+https://lenster.xyz/u/writing.lens
+https://lenster.xyz/u/poetry.lens
+https://lenster.xyz/u/ebooks.lens
+https://lenster.xyz/u/freebooks.lens
+https://lenster.xyz/u/miguelbayon.lens
