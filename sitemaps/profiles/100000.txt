@@ -8432,3 +8432,6 @@ https://lenster.xyz/u/diagram.lens
 https://lenster.xyz/u/blackplanet.lens
 https://lenster.xyz/u/sherv.lens
 https://lenster.xyz/u/charlesgom.lens
+https://lenster.xyz/u/solange.lens
+https://lenster.xyz/u/playrn.lens
+https://lenster.xyz/u/compsci.lens
