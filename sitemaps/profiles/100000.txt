@@ -8794,3 +8794,5 @@ https://lenster.xyz/u/tsellhorn.lens
 https://lenster.xyz/u/creators.lens
 https://lenster.xyz/u/musicians.lens
 https://lenster.xyz/u/phygital.lens
+https://lenster.xyz/u/geography.lens
+https://lenster.xyz/u/millihe.lens
