@@ -10805,3 +10805,7 @@ https://lenster.xyz/u/mydiary.lens
 https://lenster.xyz/u/medici_crypto.lens
 https://lenster.xyz/u/phiunit.lens
 https://lenster.xyz/u/tmini.lens
+https://lenster.xyz/u/bouncepatrol.lens
+https://lenster.xyz/u/decrement.lens
+https://lenster.xyz/u/noelia.lens
+https://lenster.xyz/u/invoke.lens
