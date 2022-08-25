@@ -10866,3 +10866,7 @@ https://lenster.xyz/u/0xsuti.lens
 https://lenster.xyz/u/partnerts.lens
 https://lenster.xyz/u/proofofintegrity.lens
 https://lenster.xyz/u/laszlohanyecz.lens
+https://lenster.xyz/u/zugzwang.lens
+https://lenster.xyz/u/receive.lens
+https://lenster.xyz/u/illumination.lens
+https://lenster.xyz/u/virtual_worlds.lens
