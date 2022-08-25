@@ -10843,3 +10843,6 @@ https://lenster.xyz/u/cryptoadu.lens
 https://lenster.xyz/u/provider.lens
 https://lenster.xyz/u/darkfeed.lens
 https://lenster.xyz/u/warrp.lens
+https://lenster.xyz/u/juaniarbizu.lens
+https://lenster.xyz/u/012340.lens
+https://lenster.xyz/u/permission.lens
