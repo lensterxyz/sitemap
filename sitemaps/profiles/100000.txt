@@ -11397,3 +11397,6 @@ https://lenster.xyz/u/cryptotwitter.lens
 https://lenster.xyz/u/cryptoyoutube.lens
 https://lenster.xyz/u/cryptogoogle.lens
 https://lenster.xyz/u/cryptowikipedia.lens
+https://lenster.xyz/u/cryptoig.lens
+https://lenster.xyz/u/cryptoapple.lens
+https://lenster.xyz/u/cryptoamazon.lens
