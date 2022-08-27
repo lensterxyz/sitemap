@@ -11451,3 +11451,5 @@ https://lenster.xyz/u/5000oo.lens
 https://lenster.xyz/u/22200o.lens
 https://lenster.xyz/u/cryptomobile.lens
 https://lenster.xyz/u/cryptomicrosoft.lens
+https://lenster.xyz/u/cryptofinance.lens
+https://lenster.xyz/u/cryptodonkey.lens
