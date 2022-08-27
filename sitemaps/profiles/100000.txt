@@ -11263,3 +11263,7 @@ https://lenster.xyz/u/proteinshake.lens
 https://lenster.xyz/u/1r2w3.lens
 https://lenster.xyz/u/wemix.lens
 https://lenster.xyz/u/misty.lens
+https://lenster.xyz/u/lensitem.lens
+https://lenster.xyz/u/mylensprofile.lens
+https://lenster.xyz/u/farhan.lens
+https://lenster.xyz/u/nftmetaverse.lens
