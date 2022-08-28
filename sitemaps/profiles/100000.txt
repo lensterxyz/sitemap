@@ -11634,3 +11634,4 @@ https://lenster.xyz/u/nulladdress.lens
 https://lenster.xyz/u/brutal.lens
 https://lenster.xyz/u/bybit_official.lens
 https://lenster.xyz/u/savagezireael.lens
+https://lenster.xyz/u/announcements.lens
