@@ -11612,3 +11612,6 @@ https://lenster.xyz/u/logout.lens
 https://lenster.xyz/u/murphy_labs.lens
 https://lenster.xyz/u/cryptoword.lens
 https://lenster.xyz/u/gustavoccb.lens
+https://lenster.xyz/u/strateg.lens
+https://lenster.xyz/u/lenstrader.lens
+https://lenster.xyz/u/nftsea.lens
