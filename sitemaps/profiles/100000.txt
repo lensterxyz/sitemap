@@ -11630,3 +11630,6 @@ https://lenster.xyz/u/dreader.lens
 https://lenster.xyz/u/003300.lens
 https://lenster.xyz/u/179324865.lens
 https://lenster.xyz/u/00887700.lens
+https://lenster.xyz/u/nulladdress.lens
+https://lenster.xyz/u/brutal.lens
+https://lenster.xyz/u/bybit_official.lens
