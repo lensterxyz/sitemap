@@ -11781,3 +11781,4 @@ https://lenster.xyz/u/erickbustamant.lens
 https://lenster.xyz/u/marriage.lens
 https://lenster.xyz/u/divorce.lens
 https://lenster.xyz/u/artificial_intelligence.lens
+https://lenster.xyz/u/parents.lens
