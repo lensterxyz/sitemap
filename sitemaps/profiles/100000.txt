@@ -12741,3 +12741,5 @@ https://lenster.xyz/u/0x8888888.lens
 https://lenster.xyz/u/beatsfaty.lens
 https://lenster.xyz/u/possman.lens
 https://lenster.xyz/u/wright420.lens
+https://lenster.xyz/u/slowloris.lens
+https://lenster.xyz/u/announcement.lens
