@@ -12893,3 +12893,8 @@ https://lenster.xyz/u/alcoholic.lens
 https://lenster.xyz/u/0xbull.lens
 https://lenster.xyz/u/gongli.lens
 https://lenster.xyz/u/participants.lens
+https://lenster.xyz/u/entries.lens
+https://lenster.xyz/u/ongoing.lens
+https://lenster.xyz/u/kentphilly.lens
+https://lenster.xyz/u/ej-rogers.lens
+https://lenster.xyz/u/scaling.lens
