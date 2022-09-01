@@ -12950,3 +12950,6 @@ https://lenster.xyz/u/pitbulls.lens
 https://lenster.xyz/u/dotjs.lens
 https://lenster.xyz/u/instrument.lens
 https://lenster.xyz/u/prolog.lens
+https://lenster.xyz/u/algernon.lens
+https://lenster.xyz/u/murat131.lens
+https://lenster.xyz/u/charles_leclerc.lens
