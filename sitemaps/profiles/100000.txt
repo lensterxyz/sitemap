@@ -13332,3 +13332,6 @@ https://lenster.xyz/u/05_05_2025.lens
 https://lenster.xyz/u/01_01_2026.lens
 https://lenster.xyz/u/0xiota.lens
 https://lenster.xyz/u/26_06_2026.lens
+https://lenster.xyz/u/tactic.lens
+https://lenster.xyz/u/0xejb.lens
+https://lenster.xyz/u/ferriswheel.lens
