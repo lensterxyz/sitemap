@@ -13347,3 +13347,5 @@ https://lenster.xyz/u/01_01_2027.lens
 https://lenster.xyz/u/chronus.lens
 https://lenster.xyz/u/27_07_2027.lens
 https://lenster.xyz/u/01_01_2028.lens
+https://lenster.xyz/u/hemera.lens
+https://lenster.xyz/u/28_02_2028.lens
