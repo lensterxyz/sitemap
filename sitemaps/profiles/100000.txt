@@ -13624,3 +13624,5 @@ https://lenster.xyz/u/weblens.lens
 https://lenster.xyz/u/dogaozenli.lens
 https://lenster.xyz/u/0xgabs.lens
 https://lenster.xyz/u/limbo.lens
+https://lenster.xyz/u/avatars.lens
+https://lenster.xyz/u/hayabusa.lens
