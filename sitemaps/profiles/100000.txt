@@ -13931,3 +13931,5 @@ https://lenster.xyz/u/airspace.lens
 https://lenster.xyz/u/natpo.lens
 https://lenster.xyz/u/chefs.lens
 https://lenster.xyz/u/flayed.lens
+https://lenster.xyz/u/shlomi.lens
+https://lenster.xyz/u/edwins.lens
