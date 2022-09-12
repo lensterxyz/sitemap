@@ -14423,3 +14423,4 @@ https://lenster.xyz/u/secondary.lens
 https://lenster.xyz/u/ampedup.lens
 https://lenster.xyz/u/otbtrade.lens
 https://lenster.xyz/u/rabbitfinance.lens
+https://lenster.xyz/u/devte.lens
