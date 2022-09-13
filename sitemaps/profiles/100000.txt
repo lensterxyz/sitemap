@@ -14606,3 +14606,4 @@ https://lenster.xyz/u/toroissohot.lens
 https://lenster.xyz/u/derivative.lens
 https://lenster.xyz/u/dovemetrics.lens
 https://lenster.xyz/u/chibiclash.lens
+https://lenster.xyz/u/introspector.lens
