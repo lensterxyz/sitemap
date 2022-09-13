@@ -14766,3 +14766,5 @@ https://lenster.xyz/u/lowly.lens
 https://lenster.xyz/u/depot.lens
 https://lenster.xyz/u/purge.lens
 https://lenster.xyz/u/band0.lens
+https://lenster.xyz/u/banko.lens
+https://lenster.xyz/u/except.lens
