@@ -15092,3 +15092,5 @@ https://lenster.xyz/u/0eth0.lens
 https://lenster.xyz/u/bitcoindata.lens
 https://lenster.xyz/u/hannya.lens
 https://lenster.xyz/u/pablitodev.lens
+https://lenster.xyz/u/web3meta.lens
+https://lenster.xyz/u/lenspunks.lens
