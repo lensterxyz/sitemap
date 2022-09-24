@@ -20335,3 +20335,5 @@ https://lenster.xyz/u/musica.lens
 https://lenster.xyz/u/03349.lens
 https://lenster.xyz/u/alyusha.lens
 https://lenster.xyz/u/mitsuru.lens
+https://lenster.xyz/u/dalle2.lens
+https://lenster.xyz/u/dwight.lens
