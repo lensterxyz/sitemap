@@ -1,4 +1,5 @@
 const axios = require('axios')
+const axiosRetry = require('axios-retry')
 const { ethers } = require('ethers')
 const fs = require('fs')
 
@@ -11,6 +12,17 @@ const PROFILE = `
 `
 
 const end = 100000
+
+axiosRetry(axios, {
+  retries: 3,
+  retryDelay: (retryCount) => {
+    console.log(`retry attempt: ${retryCount}`)
+    return retryCount * 2000
+  },
+  retryCondition: (error) => {
+    return error
+  }
+})
 
 async function fetchUsers(startId) {
   for (i = startId; i < end; i++) {
