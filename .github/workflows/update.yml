@@ -9,7 +9,7 @@ on:
 
 jobs:
   update:
-    runs-on: linux-latest
+    runs-on: ubuntu-latest
     timeout-minutes: 1000
     steps:
       - uses: actions/checkout@v3
