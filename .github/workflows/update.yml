@@ -9,7 +9,8 @@ on:
 
 jobs:
   update:
-    runs-on: self-hosted
+    runs-on: macos-latest
+    timeout-minutes: 1000
     steps:
       - uses: actions/checkout@v3
       - name: Update Sitemap
