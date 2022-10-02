@@ -14,7 +14,7 @@ const PROFILE = `
 const end = 100000
 
 axiosRetry(axios, {
-  retries: 3,
+  retries: 30,
   retryDelay: (retryCount) => {
     console.log(`retry attempt: ${retryCount}`)
     return retryCount * 2000
