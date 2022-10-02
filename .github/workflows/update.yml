@@ -9,7 +9,7 @@ on:
 
 jobs:
   update:
-    runs-on: macos-latest
+    runs-on: linux-latest
     timeout-minutes: 1000
     steps:
       - uses: actions/checkout@v3
