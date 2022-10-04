@@ -31912,3 +31912,8 @@ https://lenster.xyz/u/igniter.lens
 https://lenster.xyz/u/0x504.lens
 https://lenster.xyz/u/0x506.lens
 https://lenster.xyz/u/0x512.lens
+https://lenster.xyz/u/0x515.lens
+https://lenster.xyz/u/0x516.lens
+https://lenster.xyz/u/0x519.lens
+https://lenster.xyz/u/0x522.lens
+https://lenster.xyz/u/bearmans.lens
