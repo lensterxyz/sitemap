@@ -43609,3 +43609,7 @@ https://lenster.xyz/u/frachter.lens
 https://lenster.xyz/u/faunu.lens
 https://lenster.xyz/u/karmic.lens
 https://lenster.xyz/u/tokenomicsdao.lens
+https://lenster.xyz/u/0x1806.lens
+https://lenster.xyz/u/elrey.lens
+https://lenster.xyz/u/bitsherlocked.lens
+https://lenster.xyz/u/andrescarreon.lens
