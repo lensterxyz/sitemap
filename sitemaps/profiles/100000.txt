@@ -44467,3 +44467,7 @@ https://lenster.xyz/u/sui_wallet.lens
 https://lenster.xyz/u/strongman.lens
 https://lenster.xyz/u/33558.lens
 https://lenster.xyz/u/ac_milan.lens
+https://lenster.xyz/u/real_madrid.lens
+https://lenster.xyz/u/web3_com.lens
+https://lenster.xyz/u/8bram.lens
+https://lenster.xyz/u/chelsea_fc.lens
