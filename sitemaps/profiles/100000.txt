@@ -49934,3 +49934,5 @@ https://lenster.xyz/u/0swap.lens
 https://lenster.xyz/u/realdefi.lens
 https://lenster.xyz/u/nftguru1.lens
 https://lenster.xyz/u/rotator.lens
+https://lenster.xyz/u/0x0089.lens
+https://lenster.xyz/u/worthless.lens
