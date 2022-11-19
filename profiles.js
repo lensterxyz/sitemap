@@ -11,13 +11,13 @@ const PROFILE = `
   }
 `
 
-const end = 100000
+const end = 150000
 
 axiosRetry(axios, {
   retries: 30,
   retryDelay: (retryCount) => {
     console.log(`retry attempt: ${retryCount}`)
-    return retryCount * 2000
+    return 2000
   },
   retryCondition: (error) => {
     return error
@@ -51,7 +51,7 @@ async function fetchUsers(startId) {
       `${i} (${ethers.utils.hexlify(i)}) => https://lenster.xyz/u/${handle}`
     )
     fs.appendFileSync(
-      'sitemaps/profiles/100000.txt',
+      'sitemaps/profiles/150000.txt',
       `https://lenster.xyz/u/${handle}\n`
     )
   }
