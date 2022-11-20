@@ -2313,3 +2313,4 @@ https://lenster.xyz/u/0xajc.lens
 https://lenster.xyz/u/bucksmith.lens
 https://lenster.xyz/u/denizz.lens
 https://lenster.xyz/u/ybs_eth.lens
+https://lenster.xyz/u/sterling_.lens
