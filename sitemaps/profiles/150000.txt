@@ -4546,3 +4546,4 @@ https://lenster.xyz/u/sofaking.lens
 https://lenster.xyz/u/swaylang.lens
 https://lenster.xyz/u/abracadaniel.lens
 https://lenster.xyz/u/gnosis_safe.lens
+https://lenster.xyz/u/utopia_labs.lens
