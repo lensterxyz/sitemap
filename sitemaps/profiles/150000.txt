@@ -4615,3 +4615,6 @@ https://lenster.xyz/u/arkham.lens
 https://lenster.xyz/u/50110.lens
 https://lenster.xyz/u/amirb.lens
 https://lenster.xyz/u/takanori.lens
+https://lenster.xyz/u/66855.lens
+https://lenster.xyz/u/eip4844.lens
+https://lenster.xyz/u/gene_sis.lens
