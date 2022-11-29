@@ -4927,3 +4927,4 @@ https://lenster.xyz/u/squiz.lens
 https://lenster.xyz/u/tizzy.lens
 https://lenster.xyz/u/solver.lens
 https://lenster.xyz/u/ensocollective.lens
+https://lenster.xyz/u/08579.lens
