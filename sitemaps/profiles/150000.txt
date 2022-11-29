@@ -4925,3 +4925,5 @@ https://lenster.xyz/u/conlan.lens
 https://lenster.xyz/u/gurmeetkaur.lens
 https://lenster.xyz/u/squiz.lens
 https://lenster.xyz/u/tizzy.lens
+https://lenster.xyz/u/solver.lens
+https://lenster.xyz/u/ensocollective.lens
