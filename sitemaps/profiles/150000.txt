@@ -4986,3 +4986,4 @@ https://lenster.xyz/u/lexlex.lens
 https://lenster.xyz/u/modularwallet.lens
 https://lenster.xyz/u/carlosgio.lens
 https://lenster.xyz/u/leeel.lens
+https://lenster.xyz/u/struct.lens
