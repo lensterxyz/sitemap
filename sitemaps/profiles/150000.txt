@@ -5249,3 +5249,5 @@ https://lenster.xyz/u/merchant.lens
 https://lenster.xyz/u/micronaut.lens
 https://lenster.xyz/u/overs.lens
 https://lenster.xyz/u/clang.lens
+https://lenster.xyz/u/ctype.lens
+https://lenster.xyz/u/operate.lens
