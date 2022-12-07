@@ -5857,3 +5857,5 @@ https://lenster.xyz/u/yasak.lens
 https://lenster.xyz/u/ngboki.lens
 https://lenster.xyz/u/miguelcas.lens
 https://lenster.xyz/u/solidity.lens
+https://lenster.xyz/u/miguelfaus.lens
+https://lenster.xyz/u/racho.lens
