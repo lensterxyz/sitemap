@@ -5853,3 +5853,7 @@ https://lenster.xyz/u/mathz.lens
 https://lenster.xyz/u/degodfather.lens
 https://lenster.xyz/u/watase.lens
 https://lenster.xyz/u/0xsenzel.lens
+https://lenster.xyz/u/yasak.lens
+https://lenster.xyz/u/ngboki.lens
+https://lenster.xyz/u/miguelcas.lens
+https://lenster.xyz/u/solidity.lens
